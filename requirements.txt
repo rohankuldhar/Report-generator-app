@@ -1,10 +1,11 @@
 ﻿streamlit
-pypdf2
 langchain
-python-dotenv
 faiss-cpu
 openai
-huggingface-hub==0.14.1
+huggingface-hub
 InstructorEmbedding==1.0.1
 sentence-transformers==2.2.2
-streamlit-extras
+unstructured
+unstructured[pdf]
+chromadb
+google
